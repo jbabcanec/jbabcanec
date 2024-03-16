@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello! I'm an **AI Enthusiast** and **Data Scientist** currently working at **RaLytics LLC**. With a rich academic background including an **MA in Mathematics**, a **BA in Applied Math**, and a **BS in Mechanical Engineering**, I've dedicated my career to exploring the fascinating intersection of data science, artificial intelligence, and machine learning.
+Hello! I'm an **AI Enthusiast** and **Data Scientist** currently working at **RaLytics LLC**. With an academic background applied mathematics, I've dedicated my career to exploring the fascinating intersection of data science, artificial intelligence, and machine learning.
 
 Beyond the numbers and algorithms, I'm also a passionate **musician** and **genealogist**, which often inspires a unique perspective in my projects.
 
