@@ -12,9 +12,9 @@ This space is a canvas for my explorations and projects in **AI/ML**. Here, you'
 
 ## 🎮 Interests
 
-- **Video Games**: I am a huge retro gaming enthusiast. Future plans include to expand classic games in ROM Hacks to have larger worlds and continued story lines
+- **Video Games**: I am a huge retro gaming enthusiast. Future plans include expanding classic games in ROM Hacks to have larger worlds and continued storylines.
 - **Music**: Whether composing, performing, or analyzing, music is a constant source of inspiration and creativity in my work.
-- **Genealogy**: Unraveling the threads of history through data, I apply analytical skills to genealogical research, uncovering stories and patterns from the past.
+- **Genealogy**: Unraveling the threads of history through data, I apply analytical skills to genealogical research, uncovering stories and patterns from the past. Check out my genealogy insights and projects at [Babcanec Genealogy](https://jbbabgen.wixsite.com/babgenconsultants).
 
 ## 📚 Education
 
