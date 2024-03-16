@@ -12,7 +12,7 @@ This space is a canvas for my explorations and projects in **AI/ML**. Here, you'
 
 ## 🎮 Interests
 
-- **Video Games**: A lifelong gamer, I'm fascinated by the potential of AI to revolutionize gaming, from dynamic storytelling to NPC behavior.
+- **Video Games**: I am a huge retro gaming enthusiast. Future plans include to expand classic games in ROM Hacks to have larger worlds and continued story lines
 - **Music**: Whether composing, performing, or analyzing, music is a constant source of inspiration and creativity in my work.
 - **Genealogy**: Unraveling the threads of history through data, I apply analytical skills to genealogical research, uncovering stories and patterns from the past.
 
