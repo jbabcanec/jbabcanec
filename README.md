@@ -2,9 +2,9 @@
 
 ## 👋 About Me
 
-Hello! I'm an **AI Enthusiast** and **Data Scientist** currently working at **RaLytics LLC**. With an academic background applied mathematics, I've dedicated my career to exploring the fascinating intersection of data science, artificial intelligence, and machine learning.
+Hello! I'm an **AI Enthusiast** and **Data Scientist** currently making strides at **RaLytics LLC**. With a strong background in applied mathematics, I'm deeply engrossed in the intersection of data science, artificial intelligence, and machine learning.
 
-Beyond the numbers and algorithms, I'm also a passionate **musician** and **genealogist**, which often inspires a unique perspective in my projects.
+My interests aren't confined to just numbers and algorithms; I'm equally passionate about music and genealogy, which often lend unique perspectives to my projects. I have a habit of diving headfirst into my work, driven by what I like to call a 'painful fascination.' This relentless curiosity means I'm always fully committed to exploring and solving the complexities of a project, often finding it hard to step away until I've unraveled every layer.
 
 ## 🚀 My Work
 
