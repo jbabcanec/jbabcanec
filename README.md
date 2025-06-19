@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello! I'm an **AI Enthusiast** and **Data Scientist** currently making strides at **Lennox International** in econometrics. With a strong background in applied mathematics, I'm deeply engrossed in the intersection of data science, artificial intelligence, and machine learning. I also passively do research into some engineering/physics related work.
+Hello! I'm an **AI Enthusiast** and **Data Scientist** currently making strides at **Lennox International** in pricing and econometrics. With a strong background in applied mathematics, I'm deeply engrossed in the intersection of data science, artificial intelligence, and machine learning. I also passively do research into some engineering/physics related work.
 
 My interests aren't confined to just numbers and algorithms; I'm equally passionate about music and genealogy, which often lend unique perspectives to my projects. I have a habit of diving headfirst into my work, obsessing over my projects until solutions are found and leaving no stone left unturned. I therefore live by the motto "Painfully Fascinated." This relentless curiosity means I'm always fully committed to exploring and solving the complexities of a project, often finding it hard to step away until I've unraveled every layer.
 
