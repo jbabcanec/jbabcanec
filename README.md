@@ -8,7 +8,7 @@ My interests aren't confined to just numbers and algorithms; I'm equally passion
 
 ## 🚀 My Work
 
-This space is a canvas for my explorations and projects in **AI/ML**. Here, you'll find a range of projects from foundational AI models to innovative applications of machine learning in various domains. I'm particularly excited about the potential of integrating **video game mechanics** and AI to create engaging and educational experiences.
+This space is a canvas for my explorations and projects in **AI/ML**. Here, you'll find a range of projects from foundational AI models to innovative applications of machine learning in various domains. I'm particularly excited about the potential of integrating **video game mechanics** and AI to create engaging and educational experiences. I also post some educational and researh-related material.
 
 ## 🎮 Interests
 
